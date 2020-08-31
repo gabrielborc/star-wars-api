@@ -27,7 +27,7 @@ $ minikube ip
 
 Agora acesse no seu navegador pelo o ip que foi mostrado no terminal com a porta 30333, exemplo ```http://localhost:30333```, se não der certo, siga as observações abaixo.
 
-###Observações
+### Observações
 
 Caso tenha problema no acesso, pode ser que esteja rodando o minikube no docker, como no caso do windows usando wls, então deve executar o seguinte comando, para que o minikube libere uma porta de acesso.
 
